@@ -1,6 +1,8 @@
-# Weekly README Mappings
+# Weekly README
 
-This table provides links to the README files for each week's tasks.
+This table provides links to the README files for each week's tasks. Solutions for Arpit Bhayani's SWE-Math-Challenge can be found below.
+
+[Arpit Bhayani's Challenges](https://arpitbhayani.me/math)
 
 | Week   | README Path                            |
 | ------ | -------------------------------------- |
